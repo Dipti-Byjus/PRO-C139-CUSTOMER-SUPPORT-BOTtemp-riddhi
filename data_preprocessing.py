@@ -1,7 +1,5 @@
 # Text Data Preprocessing Lib
-import nltk
-nltk.download('punkt')
-nltk.download('wordnet')
+
 
 # to stem words
 from nltk.stem import PorterStemmer
